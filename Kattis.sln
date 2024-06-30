@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheKingOfTheNorth", "TheKin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiggestSlice", "BiggestSlice\BiggestSlice.csproj", "{FDACB1A8-04CA-49F4-9137-A2603A47C617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcardCollectionTest", "PostcardCollectionTest\PostcardCollectionTest.csproj", "{2D2FE678-6139-41B9-8B46-0A64DB7D4CAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FDACB1A8-04CA-49F4-9137-A2603A47C617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDACB1A8-04CA-49F4-9137-A2603A47C617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDACB1A8-04CA-49F4-9137-A2603A47C617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2FE678-6139-41B9-8B46-0A64DB7D4CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2FE678-6139-41B9-8B46-0A64DB7D4CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2FE678-6139-41B9-8B46-0A64DB7D4CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2FE678-6139-41B9-8B46-0A64DB7D4CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
