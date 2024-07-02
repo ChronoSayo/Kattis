@@ -3,13 +3,13 @@ using System.Collections.Generic;
 
 namespace TheKingOfTheNorth
 {
-    class Program
+    public class Program
     {
         static int row, column, castleRow, castleColumn;
         static int[] dx = { 0, 1, 0, -1 };
         static int[] dy = { 1, 0, -1, 0 };
 
-        static void Main(string[] args)
+        public static void Main()
         {
             (row, column) = GetValidInput(3, 300, 3, 300);
 
